@@ -1,0 +1,17 @@
+ul {
+	padding: 0;
+}
+
+li {
+	border: 1px solid #447B93;
+	list-style-type: none;
+	border-radius: 10px;
+}
+
+ul button {
+	border: none;
+	color: white;
+	width: 100%;
+	height: 30px;
+	background-color: #3E95B6;
+}
